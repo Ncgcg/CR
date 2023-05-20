@@ -1,3 +1,3 @@
 # CR
-Simple calculators for solving genetics tests made in Shiny.
+Simple calculators made in Shiny for solving genetics tests.
 For educational use only.
